@@ -114,7 +114,7 @@ uv run --extra isaacsim python scripts\tutorials\01_assets\run_articulation.py -
 
 **写真5-2 公式資料の参考画面：二つのCartpole**
 
-![Isaac Lab公式チュートリアルの二つのCartpole](../assets/cartpole.jpg)
+![Isaac Lab公式チュートリアルの二つのCartpole](../assets/chapter-05/cartpole.jpg)
 
 左のViewportで2台の台車と棒を、右のStageで`World`を確認する。[公式チュートリアルの掲載画像](https://isaac-sim.github.io/IsaacLab/v3.0.0-EA/source/tutorials/01_assets/run_articulation.html)であり、本書の指定環境で実行した結果ではない。これは関節モデルの動作確認例で、学習済み方策の成果ではない。
 
@@ -203,7 +203,7 @@ URDFが参照するメッシュも変換時に必要。USDが生成された後�
 
 **写真5-5 公式資料の参考画面：変換後のモデル**
 
-![Isaac Lab公式チュートリアルに掲載されたURDF変換後のモデル](../assets/urdf-model.jpg)
+![Isaac Lab公式チュートリアルに掲載されたURDF変換後のモデル](../assets/chapter-05/urdf-model.jpg)
 
 [公式のURDF変換チュートリアル](https://isaac-sim.github.io/IsaacLab/v3.0.0-EA/source/how-to/import_new_asset.html)の参考画像。モデル表示の例であり、本書のURDFを変換した証拠ではない。画像が小さいため、関節軸、制限、質量の値を読み取る資料には使わない。
 

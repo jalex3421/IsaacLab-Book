@@ -130,7 +130,7 @@ uv run --extra isaacsim python scripts\tutorials\00_sim\create_empty.py --viz ki
 
 **写真4-4 公式資料の参考画面：空の場面**
 
-![Isaac Lab公式チュートリアルに掲載された空の場面](../assets/empty-scene.jpg)
+![Isaac Lab公式チュートリアルに掲載された空の場面](../assets/chapter-04/empty-scene.jpg)
 
 黒いViewportと、右側のStageにある物理シーンを見比べる。[公式チュートリアルの掲載画像](https://isaac-sim.github.io/IsaacLab/v3.0.0-EA/source/tutorials/00_sim/create_empty.html)であり、本書の指定環境での起動証拠ではない。
 
