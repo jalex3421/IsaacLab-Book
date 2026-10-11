@@ -1,5 +1,7 @@
 # NVIDIA Isaac Labではじめるロボット学習
 
+![NVIDIA Isaac Lab ガイド 基礎と実践](assets/cover.jpg)
+
 Pythonを少し触った人のためのシミュレーション入門の初稿です。原稿は章ごとのMarkdownファイルで管理しています。
 
 ## 目次
